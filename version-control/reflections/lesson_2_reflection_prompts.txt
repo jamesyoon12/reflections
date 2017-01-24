@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+I get multiple options when I initialize a repository! I need to do it to create commits!
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is imaginary thing that is there to help you understand the logic of adding. The working directory is an actual working space of the repository. The repository is the real space, a group of commits.
