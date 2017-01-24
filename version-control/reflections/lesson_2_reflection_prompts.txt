@@ -8,3 +8,5 @@ What are some situations when branches would be helpful in keeping your history 
 Branches help if I don't want to make modifications to the game, but maybe add a new feature that is optional for users.
 How do the diagrams help you visualize the branch structure?
 These diagrams show you where the nodes of branches and commits lie exactly relative to other commits and branches.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When you merge you add on the features you created separtely from different branches. We do it because it represents it well.
