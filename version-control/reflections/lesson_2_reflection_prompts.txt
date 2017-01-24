@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 I get multiple options when I initialize a repository! I need to do it to create commits!
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is imaginary thing that is there to help you understand the logic of adding. The working directory is an actual working space of the repository. The repository is the real space, a group of commits.
+How can you use the staging area to make sure you have one commit per logical change?
+Staging are serves as a operational unit. you have full control of what goes there by initiating the add on process to the staging area. By doing so, you know what you are editing.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches help if I don't want to make modifications to the game, but maybe add a new feature that is optional for users.
+How do the diagrams help you visualize the branch structure?
+These diagrams show you where the nodes of branches and commits lie exactly relative to other commits and branches.
